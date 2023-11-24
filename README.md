@@ -4,6 +4,8 @@ Project week 17 of Technigo bootcamp
 
 The project was to build an API with some RESTful endpoints using Express.
 
+*** NOTE *** Herokuapp is not active - and therefore the projects is not working atm.
+
 ## The problem
 
 In my project I used the netflix-titles.json.
